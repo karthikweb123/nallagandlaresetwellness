@@ -1,0 +1,40 @@
+// Breakpoints
+$breakpoint-sm: 480px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 1024px;
+$breakpoint-xl: 1280px;
+$breakpoint-xxl: 1536px;
+
+// Spacing scale
+$space-xs: 0.5rem;
+$space-sm: 1rem;
+$space-md: 1.5rem;
+$space-lg: 2.5rem;
+$space-xl: 4rem;
+$space-xxl: 6rem;
+
+// Radius
+$radius-sm: 12px;
+$radius-md: 20px;
+$radius-lg: 28px;
+$radius-xl: 40px;
+$radius-full: 999px;
+
+// Shadows
+$shadow-soft: 0 4px 24px rgba(15, 30, 20, 0.06);
+$shadow-medium: 0 12px 40px rgba(15, 30, 20, 0.1);
+$shadow-elevated: 0 24px 64px rgba(15, 30, 20, 0.16);
+$shadow-glow-green: 0 8px 28px rgba(31, 122, 77, 0.35);
+
+// Motion
+$ease-smooth: cubic-bezier(0.16, 1, 0.3, 1);
+$ease-out-soft: cubic-bezier(0.22, 1, 0.36, 1);
+$duration-fast: 0.25s;
+$duration-base: 0.5s;
+$duration-slow: 0.9s;
+
+// Z-index scale
+$z-nav: 100;
+$z-overlay: 200;
+$z-modal: 300;
+$z-loading: 400;
